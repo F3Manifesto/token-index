@@ -12,3 +12,8 @@ Shirt: 23,24,25
 Long Sleeve: 26,27,28 */
 
 
+// Starving
+/* Hoodie: 33,34
+Crop Hoodie: 31,32
+Shirt: 35,36
+Long Sleeve: 37,38 */
