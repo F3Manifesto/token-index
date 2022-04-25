@@ -17,3 +17,9 @@ Long Sleeve: 26,27,28 */
 Crop Hoodie: 31,32
 Shirt: 35,36
 Long Sleeve: 37,38 */
+
+// Wallet Set Up
+/* Hoodie: 45,44
+Oversized: 39,41
+Shirt: 42,43
+Long Sleeve: 40,46 */
