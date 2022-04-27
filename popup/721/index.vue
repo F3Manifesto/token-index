@@ -23,3 +23,10 @@ Long Sleeve: 37,38 */
 Oversized: 39,41
 Shirt: 42,43
 Long Sleeve: 40,46 */
+
+// What is Web3 Really
+/* Crop Top: 79,80
+Oversized: 81,82
+Shirt: 83,84
+*/
+
