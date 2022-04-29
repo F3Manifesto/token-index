@@ -30,3 +30,8 @@ Oversized: 81,82
 Shirt: 83,84
 */
 
+// Nouns Web3 CC0
+/* Hoodie: 86, 88, 90
+Shirt: 87, 89, 91
+*/
+
