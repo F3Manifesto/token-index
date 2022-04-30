@@ -35,3 +35,9 @@ Shirt: 83,84
 Shirt: 87, 89, 91
 */
 
+// Cryptoadz Web3 CC0
+/* Hoodie: 94, 95, 96
+Shirt: 97, 98, 100
+*/
+
+
