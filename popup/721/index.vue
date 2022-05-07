@@ -41,8 +41,8 @@ Shirt: 97, 98, 100
 */
 
 // Make it in Web3
-/* Hoodie: 107,108
-Oversized: 105,106
+/* Hoodie: 105,106
+Oversized: 107,108
 Shirt: 101,102
 Long Sleeve: 103,104 */
 
