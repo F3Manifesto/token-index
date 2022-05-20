@@ -18,7 +18,7 @@
 
 // Znarky: 75, 93
 
-// The Navigator Chronicles: 76
+// The Navigator Chronicles: 76, 107, 135, 136, 137, 138, 139
 
 // My Pocket Empire: 77, 78
 
