@@ -49,3 +49,8 @@ Long Sleeve: 119,120 */
 // Posters Put Up
 /* 125, 126, 127, 128, 129, 130 */
 
+// Encrypted Treasures
+/* T-Shirt: 131
+Hoodie: 132
+Long Sleeve: 133
+Oversized: 134 */
