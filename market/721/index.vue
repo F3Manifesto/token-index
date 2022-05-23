@@ -8,7 +8,7 @@
 
 // Self Sovereign Essentials: 56
 
-// Hyperutility Packs: 57, 58
+// Hyperutility Packs: 57, 58, 140, 141, 142, 143, 144, 145
 
 // ZK Zeitgeist: 59, 60
 
