@@ -8,7 +8,7 @@
 
 // Self Sovereign Essentials: 56
 
-// Hyperutility Packs: 57, 58, 140, 141, 142, 143, 144, 145
+// Hyperutility Packs: 57, 58, 140, 141, 142, 143, 144, 145, 173, 174, 175, 176
 
 // ZK Zeitgeist: 59, 60, 164
 
@@ -22,7 +22,7 @@
 
 // My Pocket Empire: 77, 78
 
-// Nim's Closet: 85, 92
+// Nim's Closet: 85, 92, 167, 168, 169, 170, 171, 172
 
 // Street Sovereign: 161,162,163
 
